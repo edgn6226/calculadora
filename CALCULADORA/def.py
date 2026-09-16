@@ -18,6 +18,7 @@ def verificador_De_numero(mensagem):
 
 # Função para realizar a soma dos números da lista
 def somar(lista_de_numeros):
+    #sum e utilizada para poder somar todos os item dentro de uma lista
     return sum(lista_de_numeros)
 
 
